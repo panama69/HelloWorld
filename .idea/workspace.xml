@@ -22,7 +22,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8710ecea-b0cd-467a-8a1d-8bd86c2a6954" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hpe/Main.java" afterPath="$PROJECT_DIR$/src/com/hpe/Main.java" />
     </list>
     <ignored path="HelloWorld.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -220,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1481664510079</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="defect #18036 Love the CD process">
+      <created>1481664657385</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1481664657385</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TaskboardConfiguration" showUserStories="true" showDefects="true" showBlocked="true" showStatuses="&lt;all&gt;" assignTask="false" deactivateItem="false" activateItem="false" />
@@ -270,7 +276,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="minor change" />
     <MESSAGE value="defect #18036 minor fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="defect #18036 minor fixes" />
+    <MESSAGE value="defect #18036 Love the CD process" />
+    <option name="LAST_COMMIT_MESSAGE" value="defect #18036 Love the CD process" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
