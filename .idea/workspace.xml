@@ -20,8 +20,9 @@
     <details controls="false" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8710ecea-b0cd-467a-8a1d-8bd86c2a6954" name="Default" comment="">
+    <list default="true" id="8710ecea-b0cd-467a-8a1d-8bd86c2a6954" name="Default" comment="defect #18036 Love the CD process">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hpe/Main.java" afterPath="$PROJECT_DIR$/src/com/hpe/Main.java" />
     </list>
     <ignored path="HelloWorld.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/hpe/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+              <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -226,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1481664657385</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="defect #18036 Love the CD process">
+      <created>1481664926224</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1481664926224</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TaskboardConfiguration" showUserStories="true" showDefects="true" showBlocked="true" showStatuses="&lt;all&gt;" assignTask="false" deactivateItem="false" activateItem="false" />
@@ -278,6 +286,7 @@
     <MESSAGE value="defect #18036 minor fixes" />
     <MESSAGE value="defect #18036 Love the CD process" />
     <option name="LAST_COMMIT_MESSAGE" value="defect #18036 Love the CD process" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -307,7 +316,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/hpe/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
           <folding />
         </state>
       </provider>
